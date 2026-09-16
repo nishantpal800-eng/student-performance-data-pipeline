@@ -1,0 +1,11 @@
+student_id,name,gender,maths,physics,chemistry,attendance,total_marks,percentage,grade,status,attendance_status
+101,Nishant,Male,78,65,72,87,215,71.67,B,Pass,Eligible
+102,Nikhil,Male,45,51,49,72,145,48.33,F,Fail,Not Eligible
+103,Srishti,Female,91,88,94,96,273,91.0,A+,Pass,Eligible
+104,Aditi,Female,67,74,69,82,210,70.0,B,Pass,Eligible
+105,Arjun,Male,85,79,81,91,245,81.67,A,Pass,Eligible
+106,Simran,Female,56,62,58,76,176,58.67,D,Pass,Eligible
+107,Rohit,Male,92,95,89,98,276,92.0,A+,Pass,Eligible
+108,Anjali,Female,73,68,75,85,216,72.0,B,Pass,Eligible
+109,Karan,Male,61,55,64,71,180,60.0,C,Pass,Not Eligible
+110,Pooja,Female,88,84,90,94,262,87.33,A,Pass,Eligible
