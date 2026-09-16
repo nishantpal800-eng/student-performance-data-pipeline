@@ -7,6 +7,8 @@ load_dotenv()
 
 def load_data(df):
 
+    df.to_csv("data/processed/students_processed.csv", index=False)
+
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
