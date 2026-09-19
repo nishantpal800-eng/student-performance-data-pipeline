@@ -95,6 +95,10 @@ The project includes SQL queries for:
 - Highest attendance
 - Students with attendance below 75%
 
+## Power BI Dashboard
+
+The project includes a Power BI dashboard for visualizing student performance, grades, attendance eligibility, and key performance metrics.
+
 ## Database
 
 Database name:
